@@ -1,9 +1,9 @@
 # Tweets-degree-of-profanity
-A python code to clean the data and indicate the degree of profanity in the tweets file
+A python code to clean the data and indicate the degree of profanity in the tweets file.
 
-### THE SAMPLE INPUT TWEETS FILE IS "tweets.xls" AND THE SAMPLE TEXT FILE WITH RACIAL SLUR WORDS IS "slur_words.txt
+### THE SAMPLE INPUT TWEETS FILE IS "tweets.xls" AND THE SAMPLE TEXT FILE WITH RACIAL SLUR WORDS IS "slur_words.txt".
 
-NOTE: The tweets present in the tweets.xls file are not the origianl tweets but are just created to use them as a simple sample input file. The racial slur words in the text file are some sample words taken from wikipedia
+NOTE: The tweets present in the tweets.xls file are not the origianl tweets but are just created to use them as a simple sample input file. The racial slur words in the text file are some sample words taken from wikipedia.
 
 step1: Ask the user for the file type (whether it is a csv file or an xls file)
 step2: Ask the user if the input file has a header
