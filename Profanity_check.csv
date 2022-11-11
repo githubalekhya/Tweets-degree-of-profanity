@@ -1,0 +1,13 @@
+,Tweets,User,Total Words,Slur Words,Slur Word Count,Degree of Profanity
+0,Hello I am Alekhya. I hope you are enjoying your life.,@user1,11,,1,0.09090909090909091
+1,"Hey abbie, stay away from the famous tweets. Such a bastard you are",@user2,13,"bastard,Abbie",2,0.15384615384615385
+2,Are you an idiot? Fuck you bog!,@user3,7,"Bog,fuck",2,0.2857142857142857
+3,Man! What a niggar! Bloody bastard!!,@user4,6,"bastard,niggar",2,0.3333333333333333
+4,Get a life! dog...bog,@user5,4,Bog,1,0.25
+5,Fuck you girl! OMG!,@user6,4,fuck,1,0.25
+6,"Man, I can bone that her all night long....",@user7,9,,1,0.1111111111111111
+7,I love Titanic movie. It is a cool movie...so romantic.,@user8,10,,1,0.1
+8,"Look at the Paki..sala, itna akar hain isme..",@user9,8,paki,1,0.125
+9,Mullah kahika! Ja sala Pakistan mein chala ja..,@user10,8,paki,1,0.125
+10,"Chinki sala, saab bakwaz cheez taiyar karta hain ma*** kahika..",@user11,10,Chink,1,0.1
+11,"you chekwa, shut your mouth asshole",@user12,6,"Chekwa,asshole",2,0.3333333333333333
