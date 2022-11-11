@@ -1,9 +1,9 @@
 # Tweets-degree-of-profanity
 A python code to clean the data and indicate the degree of profanity in the tweets file
 
-### THE SAMPLE INPUT TWEETS FILE IS "tweets.csv" AND THE SAMPLE TEXT FILE WITH RACIAL SLUR WORDS IS "slur_words.txt
+### THE SAMPLE INPUT TWEETS FILE IS "tweets.xls" AND THE SAMPLE TEXT FILE WITH RACIAL SLUR WORDS IS "slur_words.txt
 
-NOTE: The tweets present in the tweets.csv file are not the origianl tweets but are just created to use them as a simple sample input file. The racial slur words in the text file are some sample words taken from wikipedia
+NOTE: The tweets present in the tweets.xls file are not the origianl tweets but are just created to use them as a simple sample input file. The racial slur words in the text file are some sample words taken from wikipedia
 
 step1: Ask the user for the file type (whether it is a csv file or an xls file)
 step2: Ask the user if the input file has a header
@@ -17,4 +17,4 @@ step9: Create a new column named "Total Words" to store the number of words pres
 step10: Write a function to count the number of racial slur words present in the tweet
 step11: Put all the slur words in a column named "Slur Words" and Count the number of slur words using the above function and put it in a separate column named "Slur Words Count" in the dataframe
 step12: Calculate the degree of profanity by dividing number of slur words in a tweet to the total number of words in the tweet and add those values to a column named "Degree of Profanity"
-step13: Save the result (dataframe) to a new csv file
+step13: Save the result (dataframe) to a new csv file (In this case, the file is saved as "Profanity_check.csv")
